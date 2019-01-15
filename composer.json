@@ -1,11 +1,11 @@
 {
-    "name": "paylaco/PersianDateTime",
+    "name": "paylaco/persian-datetime",
     "description": "a php script to convert date between persian jalili date and gregorian date time",
     "keywords": [
         "payla", "Jalali", "Shamsi", "Persian Date"
     ],
     "type": "project",
-    "homepage": "https://github.com/paylaco/PersianDateTime",
+    "homepage": "https://github.com/paylaco/persian-datetime",
     "license": "MIT",
     "authors": [
         {

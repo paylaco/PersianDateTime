@@ -14,13 +14,13 @@ The preferred way to install the PersianDateTime is through [composer](http://ge
 Either run
 
 ```
-composer require paylaco/PersianDateTime
+composer require paylaco/persian-datetime
 ```
 
 or add
 
 ```json
-"paylaco/PersianDateTime": "dev",
+"paylaco/persian-datetime": "dev",
 ```
 
 to the require section of your composer.json.
