@@ -5,7 +5,7 @@ namespace pdate;
 /**
  * Class PersianDateTime
  */
-class PersianDateTime extends DateTime
+class PersianDateTime extends \DateTime
 {
     /**
      * @var string
